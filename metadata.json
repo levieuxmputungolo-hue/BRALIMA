@@ -1,0 +1,6 @@
+{
+  "name": "BRALIMA DDC — Command Center",
+  "description": "Plateforme centrale de gestion et supervision de la distribution BRALIMA en République Démocratique du Congo : suivi des commandes, stocks, flotte, carte interactive RDC et IA prédictive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
